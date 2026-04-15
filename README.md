@@ -27,7 +27,7 @@ Sistem aşağıdaki bileşenlerden oluşur:
 
 - `database/` → SQL scriptleri
 - `admin_interface/` → PHP tabanlı yönetim paneli
-- `docs/` → ER diagram ve proje dokümanları
+- `docs/` → ER diagram 
 
 ## Veritabanı Özellikleri
 

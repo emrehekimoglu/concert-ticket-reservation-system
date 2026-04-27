@@ -66,7 +66,6 @@ Sistem aşağıdaki temel varlıkları içermektedir:
 ## Dokümantasyon
 
 - ER diagram: `docs/er-diagram.png`
-- Proje raporu: `docs/project_report_content.md`
 
 ## Amaç
 
